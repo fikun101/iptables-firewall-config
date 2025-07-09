@@ -26,9 +26,7 @@ iptables-firewall-ruleset/
 ├── scripts/
 │   └── apply-rules.sh
 ├── tests/
-│   ├── test-cases.md
-├── report/
-│   └── iptables_firewall_report.md
+│   └── test-cases.md
 ```
 
 ## How to Use
